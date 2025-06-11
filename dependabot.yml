@@ -8,3 +8,4 @@ updates:
     directory: "/code/"
     schedule:
       interval: "weekly"
+
